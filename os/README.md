@@ -140,8 +140,7 @@ Feel free to contribute to this project by:
 This project is open source and available under the MIT License.
 
 ## Authors
-- [Your Name/Team Name]
-- [Contributors]
+- MUHAMMAD RAMEEZ
 
 ## Acknowledgments
 - Thanks to all contributors
